@@ -7,3 +7,4 @@ def generate_random_list(num_elements):
 num_elements = 16
 random_list = generate_random_list(num_elements)
 print(random_list)
+print("finish")
